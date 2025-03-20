@@ -7,7 +7,7 @@ This project implements the **Collatz Conjecture** using PHP. It includes a base
 - **CollatzChild_class.php** - Extends the main class for additional features.
 - **index.php** - Entry point for testing the Collatz sequence.
 
-## 🚀 How to Run
+##  How to Run
 1. Make sure you have **PHP installed** on your system.
 2. Open a terminal in the project folder and run:
    ```sh
