@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $startInput = $_POST['start'] ?? '';
     $endInput = $_POST['end'] ?? '';
     if (!is_numeric($startInput) || !is_numeric($endInput)) {
-        $error = "Please enter valid numeric values.";
+        $error = "Enter valid numeric values.";
     } else {
         $start = (int)$startInput;
         $end = (int)$endInput;
