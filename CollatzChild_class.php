@@ -1,4 +1,5 @@
 <?php
+// Collatz child class
 require_once 'Collatz_class.php';
 
 class CollatzHistogram extends Collatz {
