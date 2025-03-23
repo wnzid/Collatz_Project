@@ -1,4 +1,4 @@
-# Collatz Explorer – PHP Edition
+# Collatz Project – PHP Edition
 
 A lightweight PHP project that explores the **Collatz Conjecture**, also known as the 3n + 1 problem. This implementation uses object-oriented programming to model the sequence with parent and child classes.
 
