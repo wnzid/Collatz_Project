@@ -1,4 +1,5 @@
 <?php
+// Collatz class
 class Collatz {
     public function iterate(int $n): array {
         $sequence = [$n];
