@@ -23,4 +23,4 @@ This project demonstrates:
 
 ##  Author
 
-Crafted with ☕ and curiosity by a Software Engineering student.
+Crafted by wnzid
